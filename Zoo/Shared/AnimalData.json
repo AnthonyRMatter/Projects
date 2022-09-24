@@ -1,0 +1,283 @@
+[
+    {
+        "species": "Jaguar",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "They are the largest of South America’s big cats and the third largest cat in the world. Their fur is usually tan or orange with black spots, called “rosettes” because they are shaped like roses. Some jaguars are so dark they don’t seem to have spots.",
+        "imageName": "Jaguar"
+    },
+    {
+        "species": "Fruit Bat",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "They are found in the Comoros, off the west coast of Madagascar. As their name suggests they eat a lot of fruit, although they will also eat some leaves and flowers as well. Fruit bats are not blind, they use their eyes to help them pick out the fruit amongst the leaves of the tree.",
+        "imageName": "Fruit_Bat"
+    },
+    {
+        "species": "Giant Anteater",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "As the largest of all four anteater species, they can reach eight feet long from the tip of its snout to the end of its tail. It is covered in grayish brown fur with white front legs, black stripes running from its chest to its back, and a bushy tail.",
+        "imageName": "Giant_Anteater"
+    },
+    {
+        "species": "Hippopotamus",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "The mammal has a bulky body on stumpy legs, an enormous head, a short tail and four toes on each foot. They are found living in slow-moving rivers and lakes in Africa. With their eyes, ears, and nostrils on the top of the head, hippos can hear, see, and breath while most of their body is underwater",
+        "imageName": "Hippopotamus"
+    },
+    {
+        "species": "Iguana",
+        "habitat": "Rainforest",
+        "kingdom": "reptile",
+        "description": "They are identified by their stocky stature, the saggy skin on their throats and the spines that protrude from their heads, necks, backs and tails. They are also very popular pets and if cared for properly, they can live up to 15 to 20 years.",
+        "imageName": "Iguana"
+    },
+    {
+        "species": "Orangutan",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "They have a characteristic ape-like shape, shaggy reddish fur and grasping hands and feet. Their powerful arms are stronger and longer than their legs and can reach 2 m in length, long enough to touch their ankles when they stand.",
+        "imageName": "Orangutan"
+    },
+    {
+        "species": "Porcupine",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "They have black to brownish-yellow fur and strong, short legs. It has hairless soles on its feet that help it climb trees. It has a round body, small ears and a small head. The most recognizable feature of the porcupine is its quills. They may have as many as 30,000 quills.",
+        "imageName": "Porcupine"
+    },
+    {
+        "species": "Red Panda",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "They are slightly larger than a domestic cat with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. They are skillful and acrobatic animals that predominantly stay in trees.",
+        "imageName": "Panda"
+    },
+    {
+        "species": "Lemur",
+        "habitat": "Rainforest",
+        "kingdom": "mammal",
+        "description": "They are generally small in size, and their face somewhat resembles a mouse’s face in smaller species or a fox’s face in larger species. Many lemur species have a snout, and all have a wet and hairless nose with curved nostrils, which is unique among primates and makes them superior sniffers.",
+        "imageName": "Lemur"
+    },
+    {
+        "species": "Poison Dart Frog",
+        "habitat": "Rainforest",
+        "kingdom": "amphibian",
+        "description": "They are very small and have a long, sticky tongue that darts out and captures their prey. Their contain four toes, each with a flattened tip and suction pad used for gripping and clinging to vegetation in its habitat.",
+        "imageName": "Poison_Dart_Frog"
+    },
+    {
+        "species": "Sand Boa",
+        "habitat": "Desert",
+        "kingdom": "reptile",
+        "description": "It is a heavy-looking reptile with a blunt head, small eyes, and a thick, short body. Its belly is white and its back has orange or yellow coloration with dark brown splotches. The tail is very short and tapers quickly to a dull point and can’t be coiled.",
+        "imageName": "Sand_Boa"
+    },
+    {
+        "species": "African Penguin",
+        "habitat": "Desert",
+        "kingdom": "bird",
+        "description": "It is a bird that has a unique and distinct pattern of black spots on the white chest that can be used to distinguish individuals from one another. It has a black bill and shortened tail. Males and females have the same plumage, making it difficult to differentiate between sexes.",
+        "imageName": "African_Penguin"
+    },
+    {
+        "species": "Antelope",
+        "habitat": "Desert",
+        "kingdom": "mammal",
+        "description": "They are deer-like herbivores that vary enormously in size, depending on the species. They have long legs, a slender neck, and large ears. A characteristic feature is their horns, which have a bone core covered in keratin (the same substance which makes our hair and fingernails).",
+        "imageName": "Antelope"
+    },
+    {
+        "species": "Camel",
+        "habitat": "Desert",
+        "kingdom": "mammal",
+        "description": "They are mammals with long legs, a big-lipped snout and a humped back. This type of camel is a Bactrian camel, which has two humps. Their humps consist of stored fat, which they can metabolize when food and water is scarce.",
+        "imageName": "Camal"
+    },
+    {
+        "species": "Meerkat",
+        "habitat": "Desert",
+        "kingdom": "mammal",
+        "description": "Slithery Snake",
+        "imageName": "Meerkat"
+    },
+    {
+        "species": "Prairie Dog",
+        "habitat": "Desert",
+        "kingdom": "mammal",
+        "description": "They are a member of the mongoose family with a weasel-like appearance. They are small mammals with grizzled gray and brown fur. They have dark patches around their eyes to protect their eyes from the sun, as well as a dark tip on their tail. They are known for their upright stance.",
+        "imageName": "Prairie_Dog"
+    },
+    {
+        "species": "Rattlesnake",
+        "habitat": "Desert",
+        "kingdom": "reptile",
+        "description": "They are highly specialized, venomous reptiles with large bodies and triangle-shaped heads. They are one of the most iconic groups of North American snakes due to the characteristic “rattle” found at the tip of the tail.",
+        "imageName": "Rattlesnack"
+    },
+    {
+        "species": "Red Kangaroo",
+        "habitat": "Desert",
+        "kingdom": "mammal",
+        "description": "They are large animals with extremely long and powerful hind legs and feet. Their tail is also long and muscular but their front limbs are short. Males tend to be orange red in coloring while females are often blue gray. Both males and females are a lighter whitish color underneath.",
+        "imageName": "Kangaroo"
+    },
+    {
+        "species": "Ostrich",
+        "habitat": "Desert",
+        "kingdom": "bird",
+        "description": "They are large, flightless birds that have long legs and a long neck that protrudes from a round body. Males have bold black-and-white coloring that they use to attract females. Females, on the other hand, are light brown. Ostriches are bigger than any other bird in the world.",
+        "imageName": "Ostrich"
+    },
+    {
+        "species": "Gila Monster",
+        "habitat": "Desert",
+        "kingdom": "reptile",
+        "description": "They are heavily-bodied lizards covered with bead-like scales, called osteoderms, that are black and yellow or pink covering all but their belly. They are venomous and its venom is made by a row of glands in the lizard’s lower jaw.",
+        "imageName": "Gila_Monster"
+    },
+    {
+        "species": "Bald Eagle",
+        "habitat": "Forest",
+        "kingdom": "bird",
+        "description": "They are large, predatory raptors that are recognizable for their brown body and wings, white head and tail, and hooked yellow beak. Their feet, which are also yellow, are equipped with sharp black talons. They have been known to be able to fly up to 30 mph and can dive at speeds up to 100 mph.",
+        "imageName": "Bald_Eagle"
+    },
+    {
+        "species": "Coyote",
+        "habitat": "Forest",
+        "kingdom": "mammal",
+        "description": "They have grayish-brown to yellowish-brown fur on top and whitish fur on its underparts. It has large triangular ears on the top of its head and a long, narrow muzzle. When living in close proximity to humans, coyotes tend to be nocturnal but may also be active in the early morning and at sunset. However, in areas with little or no human activity, coyotes will hunt during the day, and when a litter of pups need to be fed, they may have to hunt around the clock.",
+        "imageName": "Coyote"
+    },
+    {
+        "species": "Macaw",
+        "habitat": "Forest",
+        "kingdom": "bird",
+        "description": "They are king-sized members of the parrot family and have typical parrot features. Their large, strong, curved beaks are adapted for crushing nuts and seeds. Their strong, agile toes are used like hands to grasp things. Loud, screeching and squawking voices help make their presence known in dense rainforests.",
+        "imageName": "Macaw"
+    },
+    {
+        "species": "Crocodile",
+        "habitat": "Forest",
+        "kingdom": "reptile",
+        "description": "They have powerful jaws with many conical teeth and short legs with clawed webbed toes. They share a unique body form that allows the eyes, ears, and nostrils to be above the water surface while most of the animal is hidden below. The tail is long and massive, and the skin is thick and plated.",
+        "imageName": "Crocodile"
+    },
+    {
+        "species": "Siberian Tiger",
+        "habitat": "Forest",
+        "kingdom": "mammal",
+        "description": "They are distinguishable by their striped fur. Similar to people’s unique fingerprints, no two tigers have the same striped pattern. They differ from other tigers because they have fewer, paler stripes, and they also have manes. The mane, in addition to their thick fur, helps keep them warm.",
+        "imageName": "Siberian_Tiger"
+    },
+    {
+        "species": "Deer",
+        "habitat": "Forest",
+        "kingdom": "mammal",
+        "description": "They are cloven-hoofed ungulates that typically have compact torsos with long, slender legs and small tails and most males have antlers. The deer family is quite large, also including caribou, elk, moose, muntjacs and wapiti.",
+        "imageName": "Deer"
+    },
+    {
+        "species": "Frog",
+        "habitat": "Forest",
+        "kingdom": "amphibian",
+        "description": "They have protruding eyes, no tail, and strong, webbed hind feet that are adapted for leaping and swimming. They also possess smooth, moist skin. Many are predominantly aquatic, but some live on land, in burrows, or in trees.",
+        "imageName": "Frog"
+    },
+    {
+        "species": "Wild Boar",
+        "habitat": "Forest",
+        "kingdom": "mammal",
+        "description": "They have a typical domestic pig shape with a long, blunt snout, small eyes, and large ears. They are more long-legged and appear more powerful than domestic pigs. They may also have a small hump on the shoulder. They are known to be one of the widest-ranging mammals in the world, as well as the most widespread suiform.",
+        "imageName": "Wild_Boar"
+    },
+    {
+        "species": "Gopher Tortoise",
+        "habitat": "Forest",
+        "kingdom": "reptile",
+        "description": "They are moderately-sized, terrestrial turtles, averaging 9 - 11 inches in length when fully grown, though they can reach lengths of up to 15 inches. The species is identifiable by its stumpy, elephantine hind feet and flattened, shovel-like forelimbs covered in thick scales.",
+        "imageName": "Gopher_Tortoise"
+    },
+    {
+        "species": "Grizzly Bear",
+        "habitat": "Forest",
+        "kingdom": "mammal",
+        "description": "They are large and range in color from light tan (almost white) to dark brown. They have a dished face, short, rounded ears, and a large shoulder hump. The hump is where a mass of muscles attach to the bear’s backbone and give the bear additional strength for digging. Even though they are big and heavy, they can run very fast and are also good at climbing and swimming. Also, they have large brains and are one of the more intelligent mammals in the world.",
+        "imageName": "Grizzly_Bear"
+    },
+    {
+        "species": "Whale Shark",
+        "habitat": "Ocean",
+        "kingdom": "fish",
+        "description": "It has a flattened head that sports a blunt snout above its mouth with short barbels protruding from its nostrils. Its back and sides are gray to brown with white spots among pale vertical and horizontal stripes, and its belly is white. When they feed, their mouth can even stretch over 4 feet wide.",
+        "imageName": "Whale_Shark"
+    },
+    {
+        "species": "Walrus",
+        "habitat": "Ocean",
+        "kingdom": "mammal",
+        "description": "They are mammals that are extremely sociable, prone to loudly bellowing and snorting at one another, but are aggressive during mating season. With wrinkled brown and pink hides, walruses are distinguished by their long white tusks, grizzly whiskers, flat flippers, and bodies full of blubber. ",
+        "imageName": "Walrus"
+    },
+    {
+        "species": "Bottlenose Dolphin",
+        "habitat": "Ocean",
+        "kingdom": "mammal",
+        "description": "They are small-toothed cetaceans easily recognizable by their curved mouths, which give them a permanent “smile”. They get their name from their short, thick snout (or rostrum). They are generally gray in color. They can range from light gray to almost black on top near their dorsal fin and light gray to almost white on their belly.",
+        "imageName": "Bottlenose_Dolphin"
+    },
+    {
+        "species": "Green Moray Eel",
+        "habitat": "Ocean",
+        "kingdom": "fish",
+        "description": "They often have an elongated snout, large eyes, and a large mouth which contains numerous sharp teeth, although these can be quite small. They lack the pectoral and pelvic fins that other fish possess. Even though they are titled to be green, they are actually brown. The yellow tint of the mucus that covers its body, in combination with a drab background color, gives the fish its namesake green color.",
+        "imageName": "Green_Moray_Eel"
+    },
+    {
+        "species": "Grey Seal",
+        "habitat": "Ocean",
+        "kingdom": "mammal",
+        "description": "They are large in their family, Phocidae, which are commonly referred to as “true seals” or “earless seals”. It is the only species classified in the genus Halichoerus. Adult females are about 7.5 feet long and weigh about 550 pounds, while adult males can reach 10 feet long and weigh about 880 pounds.",
+        "imageName": "Grey_Seal"
+    },
+    {
+        "species": "Sea Star",
+        "habitat": "Ocean",
+        "kingdom": "invertebrates",
+        "description": "They are invertebrates related to sea urchins, sea cucumbers and sand dollars, which are all echinoderms. Echinoderm means spiny skin, a reference to their hard, calcified skin, which helps to protect them from predators. They have rows of tiny tube feet extending from the grooved surface on their underside.",
+        "imageName": "Sea_Star"
+    },
+    {
+        "species": "King Penguin",
+        "habitat": "Ocean",
+        "kingdom": "bird",
+        "description": "Unlike most penguin species, their colonies have inhabitants the entire year round thanks to the length of their maturity cycle. They don’t make nests of any kind. They carry their egg around with them at all times on top of their feet.",
+        "imageName": "King_Penguin"
+    },
+    {
+        "species": "Lion Fish",
+        "habitat": "Ocean",
+        "kingdom": "fish",
+        "description": "They have distinctive brown or maroon, and white stripes or bands covering the head and body. They have fleshy tentacles above their eyes and below the mouth. They have fan-like pectoral fins, as well as long, separated dorsal spines. They have thirteen dorsal spins, ten - eleven dorsal soft rays, three anal spines, and six - seven anal soft rays.",
+        "imageName": "Lion_Fish"
+    },
+    {
+        "species": "Sea Otter",
+        "habitat": "Ocean",
+        "kingdom": "mammal",
+        "description": "They are streamlined marine mammals, which look like a larger, fluffier version of their freshwater cousins, river otters. They have four legs to move easily on land, and a long tail to swim through the water. Sea otters also have thick, brown fur that insulates them against the cold waters of the Pacific Ocean.",
+        "imageName": "Sea_Otter"
+    },
+    {
+        "species": "Stingray",
+        "habitat": "Ocean",
+        "kingdom": "fish",
+        "description": "They are disk-shaped and have flexible, tapering tails armed, in most species, with one or more saw-edged, venomous spines. They have no bones in their body because their skeleton is made up of flexible cartilage (the bendy stuff that your ears and nose are made from). The dasyatidae stingrays, also called whip-tailed rays and stingarees, inhabit all oceans and certain South American rivers. They have slim, often very long, whiplike tails.",
+        "imageName": "Stingray"
+    }
+]
+
