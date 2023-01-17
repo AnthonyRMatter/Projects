@@ -14,7 +14,7 @@
 
 ## MySQL_RideShare_App
 ### Language: SQL
-### Description: 
+### Description: A representation of a database for a driving service such as Uber and Lyft.
 
 ## Game_Of_Life
 ### Language: C++
