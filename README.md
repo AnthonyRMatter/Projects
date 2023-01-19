@@ -1,6 +1,6 @@
 # Projects
 
-## Zoo
+## Zoo_Application
 ### Language: Swift
 ### Description: Allows the ability to navigate through a collection of animals within a zoo.
 
