@@ -12,6 +12,10 @@
 ### Language: C++
 ### Description: A representation of how long students wait in line for school faculty appointments as well as duration of appointments.
 
+## Deathify
+### Language: MySQL
+### Description: A spotify-based application that allows you search for artists, songs, and albums as well directly manipulate your own Spotify account through creating/adding playlists and deleting songs from playlists.
+
 ## MySQL_RideShare_App
 ### Language: SQL
 ### Description: A representation of a database for a driving service such as Uber and Lyft.
