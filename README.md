@@ -16,6 +16,12 @@
 ### Language: MySQL
 ### Description: A spotify-based application that allows you search for artists, songs, and albums as well directly manipulate your own Spotify account through creating/adding playlists and deleting songs from playlists.
 
+## NFA_To_DFA
+### Language: C++
+### Description: A program that takes the specifications of an NFA and converts them into the specifications of a DFA.
+#### Specifications are:
+##### Reachable States, Sigma Alpahbet, Start State, Accept States, and Transition function
+
 ## MySQL_RideShare_App
 ### Language: SQL
 ### Description: A representation of a database for a driving service such as Uber and Lyft.
