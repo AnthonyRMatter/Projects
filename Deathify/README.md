@@ -1,13 +1,5 @@
 # Deathify API
 
-## Steps to Create Tables
-
-### Step 1: Figure it out
-
-## Final Project Presentation
-
-### Demo will be in terminal showcasing the creation of a playlist.
-
 Sources:
 https://www.youtube.com/watch?v=JLDbAx6LAdo
 https://stackoverflow.com/questions/7867537/how-to-select-a-drop-down-menu-value-with-selenium-using-python
