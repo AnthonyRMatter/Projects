@@ -876,7 +876,7 @@ def main():
 
     
     
-    st.title("Welcome to deathify!")
+    st.title("Welcome to predictify!")
     # Get user's login credentials
     username = st.text_input("Enter your username:")
     # password = st.text_input("Enter your password:", type="password")
