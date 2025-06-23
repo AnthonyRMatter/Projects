@@ -28,14 +28,14 @@ mydb = mysql.connector.connect(host = "localhost",
         user = "root",
         password = "Zahraii2366637.",
         auth_plugin = 'mysql_native_password',
-        database = "Deathify")
+        database = "Predictify")
 print(mydb)
 
 mycursor = mydb.cursor()
 
 #Sets up streamlit page 
 st.set_page_config(
-    page_title="Deathify Login"
+    page_title="Predictify Login"
 )
 
 st.title("Login Page")
