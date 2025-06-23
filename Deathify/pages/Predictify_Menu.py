@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-from Deathify import *
+from Predictify import *
 from scraper import *
 import pandas as pd 
 
@@ -43,7 +43,7 @@ st.title("Main page")
 #Offers options and sets icons for those options from Bootstrap
 with st.sidebar:
     option = option_menu(
-        menu_title="Deathify Menu",
+        menu_title="Predictify Menu",
         options=["Search Artists", "Create Playlist", "Death Verifier", "Sort Songs by Album", "Sort Albums by Artist", 
         "Album Count per Artist", "Display All Artist Information", "Display All Playlists Information", "Change Playlist Name", "Display User's Playlists",
         "Delete a Playlist"],
@@ -141,7 +141,7 @@ if option == "Create Playlist":
 
         #Nested button is created, on press
         if st.button("Export playlist to csv file"):
-            st.download_button("Download",df.to_csv(index = False).encode('utf-8'), "deathify.csv", "text/csv", key='download-csv')
+            st.download_button("Download",df.to_csv(index = False).encode('utf-8'), "predictify.csv", "text/csv", key='download-csv')
 
         #Nested button is created, on press
         if st.button("Are you sure you want to make this playlist?"):
