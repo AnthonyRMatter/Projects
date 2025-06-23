@@ -1,4 +1,4 @@
-# Deathify API
+# Predictify API
 
 ## Sources:
 #### https://www.youtube.com/watch?v=JLDbAx6LAdo
