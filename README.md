@@ -1,10 +1,10 @@
-# Projects
-
 ## 🔒 Note on Public Work
 
 ### The repositories on this GitHub are from my college coursework.
 ### My current professional work is written in a secured, isolated environment where uploading or sharing code is restricted by policy.
 ### As a result, the code here doesn’t reflect the full scope of my current experience — but I’m happy to discuss it further.
+
+# Projects
 
 ## Zoo
 ### Language: Swift
