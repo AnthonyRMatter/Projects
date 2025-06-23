@@ -18,7 +18,7 @@
 ### Language: C++
 ### Description: A representation of how long students wait in line for school faculty appointments as well as duration of appointments.
 
-## Deathify
+## Predictify
 ### Language: MySQL
 ### Description: A spotify-based application that allows you search for artists, songs, and albums as well directly manipulate your own Spotify account through creating/adding playlists and deleting songs from playlists.
 
