@@ -351,7 +351,7 @@ def isDead(name):
         return 0
         
 #---------------------------------------------SQL COMMANDS---------------------------------------------
-# ''' This method creates all the tables for the Deathify database '''
+# ''' This method creates all the tables for the Predictify database '''
 def createTables():
     query = '''
     CREATE TABLE Albums(
